@@ -1,0 +1,58 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import 'https://fonts.googleapis.com/css?family=Oxygen';
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif; }
+
+.container {
+  width: 700px;
+  margin: 0 auto; }
+
+header {
+  padding: 40px;
+  background: url(https://static.pexels.com/photos/25450/pexels-photo.jpg) 10% 45%;
+  text-align: center;
+  color: white; }
+
+header h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 48px; }
+
+section {
+  padding: 0 100px; }
+
+.about h2 {
+  margin-top: 60px;
+  font-size: 28px;
+  color: #927F11; }
+
+.interests h2 {
+  margin-top: 40px;
+  color: #432F75; }
+
+h1, h2 {
+  font-family: 'Oxygen', sans-serif; }
+
+ul li {
+  padding: 5px;
+  margin: 5px; }
+
+footer {
+  margin-top: 60px;
+  padding: 30px;
+  background: #5F4F85; }
+
+footer p {
+  color: #fff;
+  text-align: center; }
+
+footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #AA9939; }
+
+footer a:hover {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */
